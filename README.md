@@ -196,19 +196,7 @@ python src/data_preprocessing.py --download
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create feature branch: `git checkout -b feature/new-analysis`
-3. Commit changes: `git commit -am 'Add new analysis'`
-4. Push to branch: `git push origin feature/new-analysis`
-5. Submit pull request
-
-## 📞 Contact
-
-**Author**: [Your Name]
-**Email**: your.email@example.com
-**LinkedIn**: [Your LinkedIn Profile]
 **Portfolio**: [Your Portfolio Website]
 
 ---
